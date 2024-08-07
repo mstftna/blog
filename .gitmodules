@@ -1,0 +1,4 @@
+[submodule "mustafa/mstftna.github.io"]
+	path = mustafa/mstftna.github.io
+	url = https://github.com/mstftna/mstftna.github.io.git
+	branch = main
